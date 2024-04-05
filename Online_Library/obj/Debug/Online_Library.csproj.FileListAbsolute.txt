@@ -1,0 +1,13 @@
+D:\Programming\Online_Library\Online_Library\bin\Debug\Online_Library.exe.config
+D:\Programming\Online_Library\Online_Library\bin\Debug\Online_Library.exe
+D:\Programming\Online_Library\Online_Library\bin\Debug\Online_Library.pdb
+D:\Programming\Online_Library\Online_Library\obj\Debug\Online_Library.csproj.AssemblyReference.cache
+D:\Programming\Online_Library\Online_Library\obj\Debug\Online_Library.Login_Form.resources
+D:\Programming\Online_Library\Online_Library\obj\Debug\Online_Library.Properties.Resources.resources
+D:\Programming\Online_Library\Online_Library\obj\Debug\Online_Library.csproj.GenerateResource.cache
+D:\Programming\Online_Library\Online_Library\obj\Debug\Online_Library.csproj.CoreCompileInputs.cache
+D:\Programming\Online_Library\Online_Library\obj\Debug\Online_Library.exe
+D:\Programming\Online_Library\Online_Library\obj\Debug\Online_Library.pdb
+D:\Programming\Online_Library\Online_Library\obj\Debug\Online_Library.Program_Managenment.resources
+D:\Programming\Online_Library\Online_Library\obj\Debug\Online_Library.View_Infor.resources
+D:\Programming\Online_Library\Online_Library\obj\Debug\Online_Library.Manager.resources
